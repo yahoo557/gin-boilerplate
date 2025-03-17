@@ -6,5 +6,5 @@ import (
 )
 
 type UserController struct {
-	UserService OrderService
+	UserService UserService
 }
