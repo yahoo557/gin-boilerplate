@@ -2,7 +2,7 @@ package user
 
 import "github.com/yahoo557/gin-boilerplate/internal/common"
 
-type Order struct {
+type User struct {
 	ID    string
 	Email string
 	Name  int
